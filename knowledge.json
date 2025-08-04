@@ -1,0 +1,1233 @@
+{
+    "memory_bank": [
+        {
+            "source": "stackoverflow",
+            "query": "hello world",
+            "learning": {
+                "tags": [
+                    "c#",
+                    ".net",
+                    "model-view-controller"
+                ],
+                "owner": {
+                    "account_id": 3839633,
+                    "reputation": 331,
+                    "user_id": 3183111,
+                    "user_type": "registered",
+                    "profile_image": "https://graph.facebook.com/100001914641332/picture?type=large",
+                    "display_name": "user3183111",
+                    "link": "https://stackoverflow.com/users/3183111/user3183111"
+                },
+                "is_answered": false,
+                "view_count": 17,
+                "answer_count": 0,
+                "score": 0,
+                "last_activity_date": 1754322135,
+                "creation_date": 1754322135,
+                "question_id": 79725123,
+                "content_license": "CC BY-SA 4.0",
+                "link": "https://stackoverflow.com/questions/79725123/dotnet-is-returning-a-build-error-related-to-the-view-method",
+                "title": "dotnet is returning a build error related to the View() method"
+            }
+        },
+        {
+            "source": "stackoverflow",
+            "query": "hello world",
+            "learning": {
+                "tags": [
+                    "c",
+                    "windows",
+                    "gcc",
+                    "makefile",
+                    "sdl-2"
+                ],
+                "owner": {
+                    "account_id": 42141087,
+                    "reputation": 121,
+                    "user_id": 30612166,
+                    "user_type": "registered",
+                    "profile_image": "https://www.gravatar.com/avatar/4fd83ec52111da136a1a9ef3e2ce6c9e?s=256&d=identicon&r=PG&f=y&so-version=2",
+                    "display_name": "Levi",
+                    "link": "https://stackoverflow.com/users/30612166/levi"
+                },
+                "is_answered": false,
+                "view_count": 75,
+                "answer_count": 0,
+                "score": 0,
+                "last_activity_date": 1754320483,
+                "creation_date": 1753896955,
+                "last_edit_date": 1754320483,
+                "question_id": 79720341,
+                "content_license": "CC BY-SA 4.0",
+                "link": "https://stackoverflow.com/questions/79720341/how-do-i-compile-with-gcc-using-sdl2-on-windows-with-a-makefile",
+                "title": "How do I compile with gcc using SDL2 on Windows with a Makefile?"
+            }
+        },
+        {
+            "source": "stackoverflow",
+            "query": "hello world",
+            "learning": {
+                "tags": [
+                    "swiftui",
+                    "scrollview",
+                    "tvos"
+                ],
+                "owner": {
+                    "account_id": 2574494,
+                    "reputation": 1804,
+                    "user_id": 2232511,
+                    "user_type": "registered",
+                    "profile_image": "https://www.gravatar.com/avatar/3d32294e2391a8f08b80e096d0d34f97?s=256&d=identicon&r=PG",
+                    "display_name": "isaced",
+                    "link": "https://stackoverflow.com/users/2232511/isaced"
+                },
+                "is_answered": true,
+                "view_count": 978,
+                "answer_count": 3,
+                "score": 3,
+                "last_activity_date": 1754306109,
+                "creation_date": 1675076268,
+                "last_edit_date": 1675076908,
+                "question_id": 75283440,
+                "content_license": "CC BY-SA 4.0",
+                "link": "https://stackoverflow.com/questions/75283440/swiftui-scrollview-how-to-scroll-on-tvos-with-long-text",
+                "title": "SwiftUI ScrollView how to scroll on tvOS with long Text"
+            }
+        },
+        {
+            "source": "pypi",
+            "query": "loop",
+            "learning": {
+                "info": {
+                    "author": "UNKNOWN",
+                    "author_email": "UNKNOWN",
+                    "bugtrack_url": null,
+                    "classifiers": [],
+                    "description": "UNKNOWN",
+                    "description_content_type": null,
+                    "docs_url": null,
+                    "download_url": "UNKNOWN",
+                    "downloads": {
+                        "last_day": -1,
+                        "last_month": -1,
+                        "last_week": -1
+                    },
+                    "dynamic": null,
+                    "home_page": "http://mimrankhan.com",
+                    "keywords": null,
+                    "license": "UNKNOWN",
+                    "license_expression": null,
+                    "license_files": null,
+                    "maintainer": null,
+                    "maintainer_email": null,
+                    "name": "loop",
+                    "package_url": "https://pypi.org/project/loop/",
+                    "platform": "UNKNOWN",
+                    "project_url": "https://pypi.org/project/loop/",
+                    "project_urls": {
+                        "Download": "UNKNOWN",
+                        "Homepage": "http://mimrankhan.com"
+                    },
+                    "provides_extra": null,
+                    "release_url": "https://pypi.org/project/loop/1.0.0/",
+                    "requires_dist": null,
+                    "requires_python": null,
+                    "summary": "this is the simple loop function",
+                    "version": "1.0.0",
+                    "yanked": false,
+                    "yanked_reason": null
+                },
+                "last_serial": 341078,
+                "releases": {
+                    "1.0.0": []
+                },
+                "urls": [],
+                "vulnerabilities": []
+            }
+        },
+        {
+            "source": "pypi",
+            "query": "function",
+            "learning": {
+                "info": {
+                    "author": "Peter",
+                    "author_email": "a184999@gmail.com",
+                    "bugtrack_url": null,
+                    "classifiers": [],
+                    "description": "UNKNOWN",
+                    "description_content_type": null,
+                    "docs_url": null,
+                    "download_url": "UNKNOWN",
+                    "downloads": {
+                        "last_day": -1,
+                        "last_month": -1,
+                        "last_week": -1
+                    },
+                    "dynamic": null,
+                    "home_page": "UNKNOWN",
+                    "keywords": null,
+                    "license": "UNKNOWN",
+                    "license_expression": null,
+                    "license_files": null,
+                    "maintainer": null,
+                    "maintainer_email": null,
+                    "name": "function",
+                    "package_url": "https://pypi.org/project/function/",
+                    "platform": "UNKNOWN",
+                    "project_url": "https://pypi.org/project/function/",
+                    "project_urls": {
+                        "Download": "UNKNOWN",
+                        "Homepage": "UNKNOWN"
+                    },
+                    "provides_extra": null,
+                    "release_url": "https://pypi.org/project/function/1.2.0/",
+                    "requires_dist": null,
+                    "requires_python": null,
+                    "summary": "A simple nest list",
+                    "version": "1.2.0",
+                    "yanked": false,
+                    "yanked_reason": null
+                },
+                "last_serial": 1442939,
+                "releases": {
+                    "1.0.0": [
+                        {
+                            "comment_text": "",
+                            "digests": {
+                                "blake2b_256": "1408be5e5272e25afd10b8d2a0fe1c800fecc9a2b8e71bf0168c51cc0c63c7ea",
+                                "md5": "2dd588ec30f63e2a1de64466b72e32a3",
+                                "sha256": "6fb67e193d632569e990bd5da2cb7ca7d7c467f1059447fbf3492e9a75e80661"
+                            },
+                            "downloads": -1,
+                            "filename": "function-1.0.0.tar.gz",
+                            "has_sig": false,
+                            "md5_digest": "2dd588ec30f63e2a1de64466b72e32a3",
+                            "packagetype": "sdist",
+                            "python_version": "source",
+                            "requires_python": null,
+                            "size": 705,
+                            "upload_time": "2015-02-27T07:59:43",
+                            "upload_time_iso_8601": "2015-02-27T07:59:43.641619Z",
+                            "url": "https://files.pythonhosted.org/packages/14/08/be5e5272e25afd10b8d2a0fe1c800fecc9a2b8e71bf0168c51cc0c63c7ea/function-1.0.0.tar.gz",
+                            "yanked": false,
+                            "yanked_reason": null
+                        }
+                    ],
+                    "1.2.0": [
+                        {
+                            "comment_text": "",
+                            "digests": {
+                                "blake2b_256": "bc42a8cbdaa14213d5f67907073286782bd75987cf32e191d2b6a395bf349368",
+                                "md5": "ff9f144bd9acc6baab41b45292c8b7e7",
+                                "sha256": "53eb5eb647e8bec5965fac4870e4bb96fb0fa87960bb21e3e10d2889597fbb7f"
+                            },
+                            "downloads": -1,
+                            "filename": "function-1.2.0.tar.gz",
+                            "has_sig": false,
+                            "md5_digest": "ff9f144bd9acc6baab41b45292c8b7e7",
+                            "packagetype": "sdist",
+                            "python_version": "source",
+                            "requires_python": null,
+                            "size": 766,
+                            "upload_time": "2015-03-01T07:33:17",
+                            "upload_time_iso_8601": "2015-03-01T07:33:17.928503Z",
+                            "url": "https://files.pythonhosted.org/packages/bc/42/a8cbdaa14213d5f67907073286782bd75987cf32e191d2b6a395bf349368/function-1.2.0.tar.gz",
+                            "yanked": false,
+                            "yanked_reason": null
+                        }
+                    ]
+                },
+                "urls": [
+                    {
+                        "comment_text": "",
+                        "digests": {
+                            "blake2b_256": "bc42a8cbdaa14213d5f67907073286782bd75987cf32e191d2b6a395bf349368",
+                            "md5": "ff9f144bd9acc6baab41b45292c8b7e7",
+                            "sha256": "53eb5eb647e8bec5965fac4870e4bb96fb0fa87960bb21e3e10d2889597fbb7f"
+                        },
+                        "downloads": -1,
+                        "filename": "function-1.2.0.tar.gz",
+                        "has_sig": false,
+                        "md5_digest": "ff9f144bd9acc6baab41b45292c8b7e7",
+                        "packagetype": "sdist",
+                        "python_version": "source",
+                        "requires_python": null,
+                        "size": 766,
+                        "upload_time": "2015-03-01T07:33:17",
+                        "upload_time_iso_8601": "2015-03-01T07:33:17.928503Z",
+                        "url": "https://files.pythonhosted.org/packages/bc/42/a8cbdaa14213d5f67907073286782bd75987cf32e191d2b6a395bf349368/function-1.2.0.tar.gz",
+                        "yanked": false,
+                        "yanked_reason": null
+                    }
+                ],
+                "vulnerabilities": []
+            }
+        },
+        {
+            "source": "stackoverflow",
+            "query": "dictionary",
+            "learning": {
+                "tags": [
+                    "python",
+                    "dictionary",
+                    "python-3.x",
+                    "hashable"
+                ],
+                "owner": {
+                    "account_id": 396926,
+                    "reputation": 4505,
+                    "user_id": 760767,
+                    "user_type": "registered",
+                    "accept_rate": 100,
+                    "profile_image": "https://i.sstatic.net/funy6.jpg?s=256",
+                    "display_name": "Evpok",
+                    "link": "https://stackoverflow.com/users/760767/evpok"
+                },
+                "is_answered": true,
+                "view_count": 34048,
+                "accepted_answer_id": 53394430,
+                "answer_count": 9,
+                "score": 49,
+                "last_activity_date": 1754320528,
+                "creation_date": 1308144726,
+                "last_edit_date": 1754103139,
+                "question_id": 6358481,
+                "content_license": "CC BY-SA 4.0",
+                "link": "https://stackoverflow.com/questions/6358481/using-functools-lru-cache-with-dictionary-arguments",
+                "title": "Using @functools.lru_cache with dictionary arguments"
+            }
+        },
+        {
+            "source": "stackoverflow",
+            "query": "dictionary",
+            "learning": {
+                "tags": [
+                    "c#",
+                    "dictionary"
+                ],
+                "owner": {
+                    "user_type": "does_not_exist",
+                    "display_name": "CSharpeProgrammer"
+                },
+                "is_answered": true,
+                "view_count": 165293,
+                "accepted_answer_id": 569920,
+                "answer_count": 12,
+                "score": 95,
+                "last_activity_date": 1754192950,
+                "creation_date": 1235142846,
+                "last_edit_date": 1739455884,
+                "question_id": 569903,
+                "content_license": "CC BY-SA 4.0",
+                "link": "https://stackoverflow.com/questions/569903/dictionary-with-two-values-per-key-of-different-type",
+                "title": "Dictionary with two values per key, of different type"
+            }
+        },
+        {
+            "source": "stackoverflow",
+            "query": "dictionary",
+            "learning": {
+                "tags": [
+                    "python",
+                    "sorting",
+                    "dictionary"
+                ],
+                "owner": {
+                    "account_id": 39068,
+                    "reputation": 1555,
+                    "user_id": 112605,
+                    "user_type": "registered",
+                    "accept_rate": 50,
+                    "profile_image": "https://www.gravatar.com/avatar/81b35abd548d432182b0fe9ec3733002?s=256&d=identicon&r=PG",
+                    "display_name": "simi",
+                    "link": "https://stackoverflow.com/users/112605/simi"
+                },
+                "is_answered": true,
+                "view_count": 167315,
+                "accepted_answer_id": 1144405,
+                "answer_count": 9,
+                "score": 143,
+                "last_activity_date": 1754036989,
+                "creation_date": 1247841408,
+                "last_edit_date": 1642882166,
+                "question_id": 1143671,
+                "content_license": "CC BY-SA 4.0",
+                "link": "https://stackoverflow.com/questions/1143671/how-to-sort-objects-by-multiple-keys",
+                "title": "How to sort objects by multiple keys?"
+            }
+        },
+        {
+            "source": "pypi",
+            "query": "condition",
+            "learning": {
+                "info": {
+                    "author": "Weiyang Zhao",
+                    "author_email": "wyzhao@gmail.com",
+                    "bugtrack_url": null,
+                    "classifiers": [
+                        "Development Status :: 4 - Beta",
+                        "Intended Audience :: Developers",
+                        "License :: OSI Approved :: MIT License",
+                        "Programming Language :: Python :: 3.6",
+                        "Programming Language :: Python :: 3.7",
+                        "Programming Language :: Python :: 3.8",
+                        "Programming Language :: Python :: 3.9",
+                        "Topic :: Software Development :: Libraries",
+                        "Topic :: Utilities"
+                    ],
+                    "description": "# Condition\n[![PyPI version](https://badge.fury.io/py/condition.svg)](https://badge.fury.io/py/condition)\n[![PyPI](https://img.shields.io/pypi/pyversions/condition.svg)](https://pypi.org/project/condition/)\n[![Docs](https://readthedocs.org/projects/condition/badge/?version=latest)](https://condition.readthedocs.io/en/latest/?badge=latest)\n[![pipeline status](https://gitlab.com/wyzhao/condition/badges/master/pipeline.svg)](https://gitlab.com/wyzhao/condition/commits/master)\n[![coverage report](https://gitlab.com/wyzhao/condition/badges/master/coverage.svg)](https://gitlab.com/wyzhao/condition/commits/master)\n\n## Project Description\n\nThis project provides a user friendly way to construct a condition object. The condition\nobject can be passed around and later used in various contexts, such as querying pandas Dataframe, \nfiltering pyarrow partitions or generating where clauses in SQL. It takes care of formating and syntax for you.\nIt also supports extensibility to new usage contexts.\n#### A Quick Example\n\n\n```python \n\n>>> from condition import *\n>>> import pandas as pd\n>>> fl = FieldList('A B C date value'.split())\n>>> cond = ((fl.date >= pd.to_datetime('20000101')) \n...             & (fl.date <= pd.to_datetime('20010131'))\n...             & (fl.A == 'a1 a3'.split()) \\\n...             & (fl.B == 'b1')) \\\n...             | (fl.C != 'c3 c5'.split())\n>>> print(cond) # show as sql where condition\n\n        (\n                (date >= '2000-01-01 00:00:00'\n                and date <= '2001-01-31 00:00:00'\n                and A in ('a1','a3')\n                and B = 'b1')\n        or C not in ('c3','c5'))\n\n>>> cond.to_df_query()\n\"(((date >= '2000-01-01 00:00:00')&(date <= '2001-01-31 00:00:00')&(A in ('a1','a3'))&(B == 'b1'))|(C not in ('c3','c5')))\"\n>>> cond.to_pyarrow_filter()\n[[('date', '>=', Timestamp('2000-01-01 00:00:00')),\n  ('date', '<=', Timestamp('2001-01-31 00:00:00')),\n  ('A', 'in', {'a1', 'a3'}),\n  ('B', '=', 'b1')],\n [('C', 'not in', {'c3', 'c5'})]]\n```\n\n\n#### SQL Generation\n\n```python \n\n>>> from condition.sql import render_sql\n>>> sql = \"\"\"\n...     select *\n...     from my_table\n...     where {{where_condition}}\n... \"\"\"\n>>> print(render_sql(sql, cond))\n\n    select *\n    from my_table\n    where \n        (\n                (date >= '2000-01-01 00:00:00'\n                and date <= '2001-01-31 00:00:00'\n                and A in ('a1','a3')\n                and B = 'b1')\n        or C not in ('c3','c5'))\n```\n\n\nPlease see [Usage Examples](https://condition.readthedocs.io/en/latest/usage.html) for detailed examples.\n\n## Installation\nThis project is distributed via `pip`. To get started:\n\n```\npip install condition\n```\n\nTo install jinja2 package used by condition.sql, do the following\n\n```\npip install \"condition[sql]\"\n```\n\nTo install all packages for development, do the following\n\n```\npip install \"condition[dev]\"\n```\n\n\n\n",
+                    "description_content_type": "text/markdown",
+                    "docs_url": null,
+                    "download_url": "",
+                    "downloads": {
+                        "last_day": -1,
+                        "last_month": -1,
+                        "last_week": -1
+                    },
+                    "dynamic": null,
+                    "home_page": "https://gitlab.com/wyzhao/condition",
+                    "keywords": "",
+                    "license": "",
+                    "license_expression": null,
+                    "license_files": null,
+                    "maintainer": "",
+                    "maintainer_email": "",
+                    "name": "condition",
+                    "package_url": "https://pypi.org/project/condition/",
+                    "platform": "",
+                    "project_url": "https://pypi.org/project/condition/",
+                    "project_urls": {
+                        "Bug Reports/Issues": "https://gitlab.com/wyzhao/condition/issues",
+                        "Docs": "https://condition.readthedocs.io/en/latest/",
+                        "Homepage": "https://gitlab.com/wyzhao/condition",
+                        "Source": "https://gitlab.com/wyzhao/condition"
+                    },
+                    "provides_extra": null,
+                    "release_url": "https://pypi.org/project/condition/1.0.8/",
+                    "requires_dist": [
+                        "pandas",
+                        "versioneer",
+                        "jinja2 ; extra == 'all'",
+                        "pandas ; extra == 'all'",
+                        "black ; extra == 'all'",
+                        "coverage ; extra == 'all'",
+                        "pyarrow ; extra == 'all'",
+                        "pytest ; extra == 'all'",
+                        "pytest-cov ; extra == 'all'",
+                        "prospector ; extra == 'all'",
+                        "mypy ; extra == 'all'",
+                        "sphinx ; extra == 'all'",
+                        "ipython ; extra == 'all'",
+                        "rst2pdf ; extra == 'all'",
+                        "sphinx-rtd-theme ; extra == 'all'",
+                        "graphviz ; extra == 'all'",
+                        "sphinx-copybutton ; extra == 'all'",
+                        "versioneer ; extra == 'all'",
+                        "pandas ; extra == 'dev'",
+                        "black ; extra == 'dev'",
+                        "coverage ; extra == 'dev'",
+                        "jinja2 ; extra == 'dev'",
+                        "pyarrow ; extra == 'dev'",
+                        "pytest ; extra == 'dev'",
+                        "pytest-cov ; extra == 'dev'",
+                        "prospector ; extra == 'dev'",
+                        "mypy ; extra == 'dev'",
+                        "sphinx ; extra == 'dev'",
+                        "ipython ; extra == 'dev'",
+                        "rst2pdf ; extra == 'dev'",
+                        "sphinx-rtd-theme ; extra == 'dev'",
+                        "graphviz ; extra == 'dev'",
+                        "sphinx-copybutton ; extra == 'dev'",
+                        "versioneer ; extra == 'dev'",
+                        "jinja2 ; extra == 'sql'"
+                    ],
+                    "requires_python": "",
+                    "summary": "A user friendly way to construct conditions for pandas dataframe query and sql",
+                    "version": "1.0.8",
+                    "yanked": false,
+                    "yanked_reason": null
+                },
+                "last_serial": 9943037,
+                "releases": {
+                    "1.0.0": [
+                        {
+                            "comment_text": "",
+                            "digests": {
+                                "blake2b_256": "5745c461f2868cd7d3d878d3f1c47cd528ab5cbc00b0ca87476ae316c029be09",
+                                "md5": "612af346c92b037f6bdd678a9710a9f2",
+                                "sha256": "0f72d0c1c66800d9075062673a97ee5c704d1820084af1d5bd0f01be08de6c61"
+                            },
+                            "downloads": -1,
+                            "filename": "condition-1.0.0-py3-none-any.whl",
+                            "has_sig": false,
+                            "md5_digest": "612af346c92b037f6bdd678a9710a9f2",
+                            "packagetype": "bdist_wheel",
+                            "python_version": "py3",
+                            "requires_python": null,
+                            "size": 15081,
+                            "upload_time": "2020-12-17T01:58:32",
+                            "upload_time_iso_8601": "2020-12-17T01:58:32.396184Z",
+                            "url": "https://files.pythonhosted.org/packages/57/45/c461f2868cd7d3d878d3f1c47cd528ab5cbc00b0ca87476ae316c029be09/condition-1.0.0-py3-none-any.whl",
+                            "yanked": false,
+                            "yanked_reason": null
+                        },
+                        {
+                            "comment_text": "",
+                            "digests": {
+                                "blake2b_256": "0de13f16661a1d801bfff8d9d8079cdaa0cda8e7e2fb680e9bc7a5a2673966eb",
+                                "md5": "11cb85517105f6a6da754e73c447ade6",
+                                "sha256": "371108f9bff03d5fdd8076b3a2dd600c015705ba188a088fdb3d659c9639ca5a"
+                            },
+                            "downloads": -1,
+                            "filename": "condition-1.0.0.tar.gz",
+                            "has_sig": false,
+                            "md5_digest": "11cb85517105f6a6da754e73c447ade6",
+                            "packagetype": "sdist",
+                            "python_version": "source",
+                            "requires_python": null,
+                            "size": 12938,
+                            "upload_time": "2020-12-17T01:58:33",
+                            "upload_time_iso_8601": "2020-12-17T01:58:33.672410Z",
+                            "url": "https://files.pythonhosted.org/packages/0d/e1/3f16661a1d801bfff8d9d8079cdaa0cda8e7e2fb680e9bc7a5a2673966eb/condition-1.0.0.tar.gz",
+                            "yanked": false,
+                            "yanked_reason": null
+                        }
+                    ],
+                    "1.0.1": [
+                        {
+                            "comment_text": "",
+                            "digests": {
+                                "blake2b_256": "06390f73980e993dd8f6841f7ecef403e19067ad731423a13de23a10d2855bc0",
+                                "md5": "84d9319b5465a0c5f5859e913df30f4c",
+                                "sha256": "e87682301aaa030c7ef2be86ebaae3dc4ccd7658cb511671b7a7f060cd1970d2"
+                            },
+                            "downloads": -1,
+                            "filename": "condition-1.0.1-py3-none-any.whl",
+                            "has_sig": false,
+                            "md5_digest": "84d9319b5465a0c5f5859e913df30f4c",
+                            "packagetype": "bdist_wheel",
+                            "python_version": "py3",
+                            "requires_python": null,
+                            "size": 15786,
+                            "upload_time": "2021-01-07T19:04:43",
+                            "upload_time_iso_8601": "2021-01-07T19:04:43.595740Z",
+                            "url": "https://files.pythonhosted.org/packages/06/39/0f73980e993dd8f6841f7ecef403e19067ad731423a13de23a10d2855bc0/condition-1.0.1-py3-none-any.whl",
+                            "yanked": false,
+                            "yanked_reason": null
+                        }
+                    ],
+                    "1.0.2": [
+                        {
+                            "comment_text": "",
+                            "digests": {
+                                "blake2b_256": "5613931b49fb395a8b4bcf5411b0b96dc4dbd25c2c4f18c3f1c3de81a1482f82",
+                                "md5": "5743c5ff3eccc0ff21593bfb41fbbe89",
+                                "sha256": "7d7cb1b035056bf9a3fbc1573a2e23e2984b3440c6d21c8e7e97bd0242ac4625"
+                            },
+                            "downloads": -1,
+                            "filename": "condition-1.0.2-py3-none-any.whl",
+                            "has_sig": false,
+                            "md5_digest": "5743c5ff3eccc0ff21593bfb41fbbe89",
+                            "packagetype": "bdist_wheel",
+                            "python_version": "py3",
+                            "requires_python": null,
+                            "size": 16901,
+                            "upload_time": "2021-02-12T23:07:21",
+                            "upload_time_iso_8601": "2021-02-12T23:07:21.414528Z",
+                            "url": "https://files.pythonhosted.org/packages/56/13/931b49fb395a8b4bcf5411b0b96dc4dbd25c2c4f18c3f1c3de81a1482f82/condition-1.0.2-py3-none-any.whl",
+                            "yanked": false,
+                            "yanked_reason": null
+                        }
+                    ],
+                    "1.0.3": [
+                        {
+                            "comment_text": "",
+                            "digests": {
+                                "blake2b_256": "7e1052ff5f480c628cc1e7b6d86528198ca0f5acdb2171456c2ca2cc94b93acd",
+                                "md5": "e033f8005093a596aa21ad3c5d4e7138",
+                                "sha256": "062cc02ccd82d0a4ae41ba1aab6c6fa4292986fd4505eebab5c22a5afc64cdb5"
+                            },
+                            "downloads": -1,
+                            "filename": "condition-1.0.3-py3-none-any.whl",
+                            "has_sig": false,
+                            "md5_digest": "e033f8005093a596aa21ad3c5d4e7138",
+                            "packagetype": "bdist_wheel",
+                            "python_version": "py3",
+                            "requires_python": null,
+                            "size": 17200,
+                            "upload_time": "2021-02-15T00:46:48",
+                            "upload_time_iso_8601": "2021-02-15T00:46:48.368495Z",
+                            "url": "https://files.pythonhosted.org/packages/7e/10/52ff5f480c628cc1e7b6d86528198ca0f5acdb2171456c2ca2cc94b93acd/condition-1.0.3-py3-none-any.whl",
+                            "yanked": false,
+                            "yanked_reason": null
+                        }
+                    ],
+                    "1.0.4": [
+                        {
+                            "comment_text": "",
+                            "digests": {
+                                "blake2b_256": "09fd04a0d77b8d66934073dc86102aefadca30af2a374372d17f4d1d62f012f9",
+                                "md5": "848049445caa4ac27403944b53b613e2",
+                                "sha256": "84b3b8aaaa6f8241ae6700d745d99c46c97a4f9310f2fd1f07e500eed05b8c35"
+                            },
+                            "downloads": -1,
+                            "filename": "condition-1.0.4-py3-none-any.whl",
+                            "has_sig": false,
+                            "md5_digest": "848049445caa4ac27403944b53b613e2",
+                            "packagetype": "bdist_wheel",
+                            "python_version": "py3",
+                            "requires_python": null,
+                            "size": 18175,
+                            "upload_time": "2021-02-15T04:51:22",
+                            "upload_time_iso_8601": "2021-02-15T04:51:22.262732Z",
+                            "url": "https://files.pythonhosted.org/packages/09/fd/04a0d77b8d66934073dc86102aefadca30af2a374372d17f4d1d62f012f9/condition-1.0.4-py3-none-any.whl",
+                            "yanked": false,
+                            "yanked_reason": null
+                        }
+                    ],
+                    "1.0.5": [
+                        {
+                            "comment_text": "",
+                            "digests": {
+                                "blake2b_256": "a46a5f87b7221e454e439bef1ef6b1d569491ca874e12cae7622c49635393fcd",
+                                "md5": "b832d8d1d1a9bf79e397335e84e59af1",
+                                "sha256": "3bfddc22ce0c2891ddf0712bf84f2bf08577d72bbf398517d834073e4a7a8b54"
+                            },
+                            "downloads": -1,
+                            "filename": "condition-1.0.5-py3-none-any.whl",
+                            "has_sig": false,
+                            "md5_digest": "b832d8d1d1a9bf79e397335e84e59af1",
+                            "packagetype": "bdist_wheel",
+                            "python_version": "py3",
+                            "requires_python": null,
+                            "size": 18497,
+                            "upload_time": "2021-02-19T04:16:13",
+                            "upload_time_iso_8601": "2021-02-19T04:16:13.862617Z",
+                            "url": "https://files.pythonhosted.org/packages/a4/6a/5f87b7221e454e439bef1ef6b1d569491ca874e12cae7622c49635393fcd/condition-1.0.5-py3-none-any.whl",
+                            "yanked": false,
+                            "yanked_reason": null
+                        }
+                    ],
+                    "1.0.6": [
+                        {
+                            "comment_text": "",
+                            "digests": {
+                                "blake2b_256": "0da3438509e6fe4be2706c8025d59ebf12ddc522e767b29059c362d0ddef5a40",
+                                "md5": "54b0ede359a649d426e95f10b8fdef99",
+                                "sha256": "4e80d1bd357b9f34a64c85acabc4ad99102656b02a0a9f73800369f932c14a87"
+                            },
+                            "downloads": -1,
+                            "filename": "condition-1.0.6-py3-none-any.whl",
+                            "has_sig": false,
+                            "md5_digest": "54b0ede359a649d426e95f10b8fdef99",
+                            "packagetype": "bdist_wheel",
+                            "python_version": "py3",
+                            "requires_python": null,
+                            "size": 14916,
+                            "upload_time": "2021-02-26T06:21:27",
+                            "upload_time_iso_8601": "2021-02-26T06:21:27.099517Z",
+                            "url": "https://files.pythonhosted.org/packages/0d/a3/438509e6fe4be2706c8025d59ebf12ddc522e767b29059c362d0ddef5a40/condition-1.0.6-py3-none-any.whl",
+                            "yanked": false,
+                            "yanked_reason": null
+                        },
+                        {
+                            "comment_text": "",
+                            "digests": {
+                                "blake2b_256": "bc8883b24686816b96f4f7c0d09f61fcdf8eb6bb82f66d38037f65c62b8564e2",
+                                "md5": "48b8db67a2080b1a060b634acdb9b33d",
+                                "sha256": "8be9093aedeef1c41f49793e7784145168c3b2dc76add4f3fd88719b068835f2"
+                            },
+                            "downloads": -1,
+                            "filename": "condition-1.0.6.tar.gz",
+                            "has_sig": false,
+                            "md5_digest": "48b8db67a2080b1a060b634acdb9b33d",
+                            "packagetype": "sdist",
+                            "python_version": "source",
+                            "requires_python": null,
+                            "size": 34352,
+                            "upload_time": "2021-02-26T06:21:28",
+                            "upload_time_iso_8601": "2021-02-26T06:21:28.468599Z",
+                            "url": "https://files.pythonhosted.org/packages/bc/88/83b24686816b96f4f7c0d09f61fcdf8eb6bb82f66d38037f65c62b8564e2/condition-1.0.6.tar.gz",
+                            "yanked": false,
+                            "yanked_reason": null
+                        }
+                    ],
+                    "1.0.7": [
+                        {
+                            "comment_text": "",
+                            "digests": {
+                                "blake2b_256": "cf99f370883f4095bbeaa927d2831e7a362b70666548d28b753f0ad399ea11ea",
+                                "md5": "4cd76bcea1f63664c8af4d3bd2cce950",
+                                "sha256": "9a07f8f1d744ea2ea126c58f1ccffd0340f8f9a12958b955e154db12f4afe3e1"
+                            },
+                            "downloads": -1,
+                            "filename": "condition-1.0.7-py3-none-any.whl",
+                            "has_sig": false,
+                            "md5_digest": "4cd76bcea1f63664c8af4d3bd2cce950",
+                            "packagetype": "bdist_wheel",
+                            "python_version": "py3",
+                            "requires_python": null,
+                            "size": 16385,
+                            "upload_time": "2021-03-14T05:48:00",
+                            "upload_time_iso_8601": "2021-03-14T05:48:00.175921Z",
+                            "url": "https://files.pythonhosted.org/packages/cf/99/f370883f4095bbeaa927d2831e7a362b70666548d28b753f0ad399ea11ea/condition-1.0.7-py3-none-any.whl",
+                            "yanked": false,
+                            "yanked_reason": null
+                        },
+                        {
+                            "comment_text": "",
+                            "digests": {
+                                "blake2b_256": "7aec96963e095a469a3e2337f91b02f41584a79b3c77dddb8f5875fc2e8ef201",
+                                "md5": "bd26768de1fc06cfb7979aa89bc2aa8e",
+                                "sha256": "848c9d4f1a18713644230604b2eee5c5ff9f178a9ec451115794b0ce5c57cd93"
+                            },
+                            "downloads": -1,
+                            "filename": "condition-1.0.7.tar.gz",
+                            "has_sig": false,
+                            "md5_digest": "bd26768de1fc06cfb7979aa89bc2aa8e",
+                            "packagetype": "sdist",
+                            "python_version": "source",
+                            "requires_python": null,
+                            "size": 36018,
+                            "upload_time": "2021-03-14T05:48:01",
+                            "upload_time_iso_8601": "2021-03-14T05:48:01.390487Z",
+                            "url": "https://files.pythonhosted.org/packages/7a/ec/96963e095a469a3e2337f91b02f41584a79b3c77dddb8f5875fc2e8ef201/condition-1.0.7.tar.gz",
+                            "yanked": false,
+                            "yanked_reason": null
+                        }
+                    ],
+                    "1.0.8": [
+                        {
+                            "comment_text": "",
+                            "digests": {
+                                "blake2b_256": "ec5cc124e4cb5e8ef3da5e7c35d5d09a4d8535362e1c64b91c70b580bb642aa2",
+                                "md5": "32e3d8877ad702b977ac054b790a4793",
+                                "sha256": "09f815d33b8a2b277f2afbb7aa341637e207a273b858e7dcc1c883c4030b7571"
+                            },
+                            "downloads": -1,
+                            "filename": "condition-1.0.8-py3-none-any.whl",
+                            "has_sig": false,
+                            "md5_digest": "32e3d8877ad702b977ac054b790a4793",
+                            "packagetype": "bdist_wheel",
+                            "python_version": "py3",
+                            "requires_python": null,
+                            "size": 15518,
+                            "upload_time": "2021-04-01T04:35:50",
+                            "upload_time_iso_8601": "2021-04-01T04:35:50.260795Z",
+                            "url": "https://files.pythonhosted.org/packages/ec/5c/c124e4cb5e8ef3da5e7c35d5d09a4d8535362e1c64b91c70b580bb642aa2/condition-1.0.8-py3-none-any.whl",
+                            "yanked": false,
+                            "yanked_reason": null
+                        },
+                        {
+                            "comment_text": "",
+                            "digests": {
+                                "blake2b_256": "cc86469af68ee68581c51d4a3cf00afb4697e23087814f672be8c9d89d217892",
+                                "md5": "66c0c944889537bb74aef2c2ba1c9977",
+                                "sha256": "c5b96dd18622784777b4792e8dbc793e56d9d760039c29288b3c2c5706f0797c"
+                            },
+                            "downloads": -1,
+                            "filename": "condition-1.0.8.tar.gz",
+                            "has_sig": false,
+                            "md5_digest": "66c0c944889537bb74aef2c2ba1c9977",
+                            "packagetype": "sdist",
+                            "python_version": "source",
+                            "requires_python": null,
+                            "size": 35241,
+                            "upload_time": "2021-04-01T04:35:51",
+                            "upload_time_iso_8601": "2021-04-01T04:35:51.556066Z",
+                            "url": "https://files.pythonhosted.org/packages/cc/86/469af68ee68581c51d4a3cf00afb4697e23087814f672be8c9d89d217892/condition-1.0.8.tar.gz",
+                            "yanked": false,
+                            "yanked_reason": null
+                        }
+                    ]
+                },
+                "urls": [
+                    {
+                        "comment_text": "",
+                        "digests": {
+                            "blake2b_256": "ec5cc124e4cb5e8ef3da5e7c35d5d09a4d8535362e1c64b91c70b580bb642aa2",
+                            "md5": "32e3d8877ad702b977ac054b790a4793",
+                            "sha256": "09f815d33b8a2b277f2afbb7aa341637e207a273b858e7dcc1c883c4030b7571"
+                        },
+                        "downloads": -1,
+                        "filename": "condition-1.0.8-py3-none-any.whl",
+                        "has_sig": false,
+                        "md5_digest": "32e3d8877ad702b977ac054b790a4793",
+                        "packagetype": "bdist_wheel",
+                        "python_version": "py3",
+                        "requires_python": null,
+                        "size": 15518,
+                        "upload_time": "2021-04-01T04:35:50",
+                        "upload_time_iso_8601": "2021-04-01T04:35:50.260795Z",
+                        "url": "https://files.pythonhosted.org/packages/ec/5c/c124e4cb5e8ef3da5e7c35d5d09a4d8535362e1c64b91c70b580bb642aa2/condition-1.0.8-py3-none-any.whl",
+                        "yanked": false,
+                        "yanked_reason": null
+                    },
+                    {
+                        "comment_text": "",
+                        "digests": {
+                            "blake2b_256": "cc86469af68ee68581c51d4a3cf00afb4697e23087814f672be8c9d89d217892",
+                            "md5": "66c0c944889537bb74aef2c2ba1c9977",
+                            "sha256": "c5b96dd18622784777b4792e8dbc793e56d9d760039c29288b3c2c5706f0797c"
+                        },
+                        "downloads": -1,
+                        "filename": "condition-1.0.8.tar.gz",
+                        "has_sig": false,
+                        "md5_digest": "66c0c944889537bb74aef2c2ba1c9977",
+                        "packagetype": "sdist",
+                        "python_version": "source",
+                        "requires_python": null,
+                        "size": 35241,
+                        "upload_time": "2021-04-01T04:35:51",
+                        "upload_time_iso_8601": "2021-04-01T04:35:51.556066Z",
+                        "url": "https://files.pythonhosted.org/packages/cc/86/469af68ee68581c51d4a3cf00afb4697e23087814f672be8c9d89d217892/condition-1.0.8.tar.gz",
+                        "yanked": false,
+                        "yanked_reason": null
+                    }
+                ],
+                "vulnerabilities": []
+            }
+        },
+        {
+            "source": "github",
+            "query": "class",
+            "learning": {
+                "url": "https://github.com/11328206/my-first-repo/blob/d965841af6865596daab1f4c5a1c74b1d96d6da1/class%20Dog.py"
+            }
+        },
+        {
+            "source": "github",
+            "query": "class",
+            "learning": {
+                "url": "https://github.com/webosose/build-webos/blob/ae3601d8c003654290d33dc9bc9928bfe662e816/mcf"
+            }
+        },
+        {
+            "source": "github",
+            "query": "class",
+            "learning": {
+                "url": "https://github.com/keras-team/keras-io/blob/1d548e4c9cc4544da88007d7adf50b22b45c40e2/examples/vision/image_classification_from_scratch.py"
+            }
+        },
+        {
+            "source": "github",
+            "query": "async",
+            "learning": {
+                "url": "https://github.com/pg83/ted/blob/5d57a8a42454ac4d737a4057776c664f94276468/ted"
+            }
+        },
+        {
+            "source": "github",
+            "query": "async",
+            "learning": {
+                "url": "https://github.com/n17r4m/mpyx/blob/01d7b5197f3d3523882c49d2440a754065eb6313/F.py"
+            }
+        },
+        {
+            "source": "github",
+            "query": "async",
+            "learning": {
+                "url": "https://github.com/molobrakos/volvooncall/blob/c620b0d793bbcbc716f554702de79cee01bd8929/voc"
+            }
+        },
+        {
+            "source": "pypi",
+            "query": "machine learning",
+            "learning": {
+                "info": {
+                    "author": "Ciprian Morar",
+                    "author_email": "ciprianm90@gmail.com",
+                    "bugtrack_url": null,
+                    "classifiers": [
+                        "License :: OSI Approved :: MIT License",
+                        "Operating System :: OS Independent",
+                        "Programming Language :: Python :: 3"
+                    ],
+                    "description": "# Example Package\n\nThis is a simple example package. You can use\n[Github-flavored Markdown](https://guides.github.com/features/mastering-markdown/)\nto write your content.",
+                    "description_content_type": "",
+                    "docs_url": null,
+                    "download_url": "",
+                    "downloads": {
+                        "last_day": -1,
+                        "last_month": -1,
+                        "last_week": -1
+                    },
+                    "dynamic": null,
+                    "home_page": "https://github.com/pypa/sampleproject",
+                    "keywords": "",
+                    "license": "",
+                    "license_expression": null,
+                    "license_files": null,
+                    "maintainer": "",
+                    "maintainer_email": "",
+                    "name": "machine-learning",
+                    "package_url": "https://pypi.org/project/machine-learning/",
+                    "platform": "",
+                    "project_url": "https://pypi.org/project/machine-learning/",
+                    "project_urls": {
+                        "Homepage": "https://github.com/pypa/sampleproject"
+                    },
+                    "provides_extra": null,
+                    "release_url": "https://pypi.org/project/machine-learning/0.0.3/",
+                    "requires_dist": null,
+                    "requires_python": "",
+                    "summary": "A small example package",
+                    "version": "0.0.3",
+                    "yanked": false,
+                    "yanked_reason": null
+                },
+                "last_serial": 4334166,
+                "releases": {
+                    "0.0.1": [
+                        {
+                            "comment_text": "",
+                            "digests": {
+                                "blake2b_256": "04ba5cd9c3eb7920df45d56444f46b9f5d2cdcecf2b0ba5f1933dbad2011b810",
+                                "md5": "c0f15205a560e160bca060935ec5ed57",
+                                "sha256": "2f05b4de0621e19a476754d0693bfea7ffcebc1b8aee3209e7f6e6238509af00"
+                            },
+                            "downloads": -1,
+                            "filename": "machine_learning-0.0.1-py3-none-any.whl",
+                            "has_sig": false,
+                            "md5_digest": "c0f15205a560e160bca060935ec5ed57",
+                            "packagetype": "bdist_wheel",
+                            "python_version": "py3",
+                            "requires_python": null,
+                            "size": 1616,
+                            "upload_time": "2018-09-23T19:45:40",
+                            "upload_time_iso_8601": "2018-09-23T19:45:40.076218Z",
+                            "url": "https://files.pythonhosted.org/packages/04/ba/5cd9c3eb7920df45d56444f46b9f5d2cdcecf2b0ba5f1933dbad2011b810/machine_learning-0.0.1-py3-none-any.whl",
+                            "yanked": false,
+                            "yanked_reason": null
+                        },
+                        {
+                            "comment_text": "",
+                            "digests": {
+                                "blake2b_256": "a3365337ca1b84d1bc65be6dcad067dec5239b0c8e1a256e5a21a4d8beb7028e",
+                                "md5": "fb0cfe62be9912fcf65f0f0cc1d716a8",
+                                "sha256": "eeb85964b325d7d3f6dc821c01e2f67ae993bf09b3ed0b146143ea03ee02b180"
+                            },
+                            "downloads": -1,
+                            "filename": "machine_learning-0.0.1.tar.gz",
+                            "has_sig": false,
+                            "md5_digest": "fb0cfe62be9912fcf65f0f0cc1d716a8",
+                            "packagetype": "sdist",
+                            "python_version": "source",
+                            "requires_python": null,
+                            "size": 1203,
+                            "upload_time": "2018-09-23T19:45:41",
+                            "upload_time_iso_8601": "2018-09-23T19:45:41.362283Z",
+                            "url": "https://files.pythonhosted.org/packages/a3/36/5337ca1b84d1bc65be6dcad067dec5239b0c8e1a256e5a21a4d8beb7028e/machine_learning-0.0.1.tar.gz",
+                            "yanked": false,
+                            "yanked_reason": null
+                        }
+                    ],
+                    "0.0.2": [
+                        {
+                            "comment_text": "",
+                            "digests": {
+                                "blake2b_256": "8c22bb9434373eb9bf6a816004e3ce50eca83cd1396e2d8f5ad6b42e405afc37",
+                                "md5": "2b1eeff5d2586b3e4b0b6af2ef556583",
+                                "sha256": "f50799391a5319930b53879bc4763f4d34b40c62659873050d724a50745c37a1"
+                            },
+                            "downloads": -1,
+                            "filename": "machine_learning-0.0.2.tar.gz",
+                            "has_sig": false,
+                            "md5_digest": "2b1eeff5d2586b3e4b0b6af2ef556583",
+                            "packagetype": "sdist",
+                            "python_version": "source",
+                            "requires_python": null,
+                            "size": 1253,
+                            "upload_time": "2018-10-02T21:00:12",
+                            "upload_time_iso_8601": "2018-10-02T21:00:12.113060Z",
+                            "url": "https://files.pythonhosted.org/packages/8c/22/bb9434373eb9bf6a816004e3ce50eca83cd1396e2d8f5ad6b42e405afc37/machine_learning-0.0.2.tar.gz",
+                            "yanked": false,
+                            "yanked_reason": null
+                        }
+                    ],
+                    "0.0.3": [
+                        {
+                            "comment_text": "",
+                            "digests": {
+                                "blake2b_256": "c6e29a49e3feba4d4eb66f3af243498792158d6510b983215c9f107dcd8bbfe2",
+                                "md5": "208418a646b3332172be378360d4c42e",
+                                "sha256": "569346a93c005d9f756e062291c5795560da1743c05c8c20b7b3e1da9324f7eb"
+                            },
+                            "downloads": -1,
+                            "filename": "machine_learning-0.0.3.tar.gz",
+                            "has_sig": false,
+                            "md5_digest": "208418a646b3332172be378360d4c42e",
+                            "packagetype": "sdist",
+                            "python_version": "source",
+                            "requires_python": null,
+                            "size": 3517,
+                            "upload_time": "2018-10-02T21:13:27",
+                            "upload_time_iso_8601": "2018-10-02T21:13:27.348829Z",
+                            "url": "https://files.pythonhosted.org/packages/c6/e2/9a49e3feba4d4eb66f3af243498792158d6510b983215c9f107dcd8bbfe2/machine_learning-0.0.3.tar.gz",
+                            "yanked": false,
+                            "yanked_reason": null
+                        }
+                    ]
+                },
+                "urls": [
+                    {
+                        "comment_text": "",
+                        "digests": {
+                            "blake2b_256": "c6e29a49e3feba4d4eb66f3af243498792158d6510b983215c9f107dcd8bbfe2",
+                            "md5": "208418a646b3332172be378360d4c42e",
+                            "sha256": "569346a93c005d9f756e062291c5795560da1743c05c8c20b7b3e1da9324f7eb"
+                        },
+                        "downloads": -1,
+                        "filename": "machine_learning-0.0.3.tar.gz",
+                        "has_sig": false,
+                        "md5_digest": "208418a646b3332172be378360d4c42e",
+                        "packagetype": "sdist",
+                        "python_version": "source",
+                        "requires_python": null,
+                        "size": 3517,
+                        "upload_time": "2018-10-02T21:13:27",
+                        "upload_time_iso_8601": "2018-10-02T21:13:27.348829Z",
+                        "url": "https://files.pythonhosted.org/packages/c6/e2/9a49e3feba4d4eb66f3af243498792158d6510b983215c9f107dcd8bbfe2/machine_learning-0.0.3.tar.gz",
+                        "yanked": false,
+                        "yanked_reason": null
+                    }
+                ],
+                "vulnerabilities": []
+            }
+        },
+        {
+            "source": "stackoverflow",
+            "query": "dictionary",
+            "learning": {
+                "tags": [
+                    "python",
+                    "dictionary",
+                    "python-3.x",
+                    "hashable"
+                ],
+                "owner": {
+                    "account_id": 396926,
+                    "reputation": 4505,
+                    "user_id": 760767,
+                    "user_type": "registered",
+                    "accept_rate": 100,
+                    "profile_image": "https://i.sstatic.net/funy6.jpg?s=256",
+                    "display_name": "Evpok",
+                    "link": "https://stackoverflow.com/users/760767/evpok"
+                },
+                "is_answered": true,
+                "view_count": 34048,
+                "accepted_answer_id": 53394430,
+                "answer_count": 9,
+                "score": 49,
+                "last_activity_date": 1754320528,
+                "creation_date": 1308144726,
+                "last_edit_date": 1754103139,
+                "question_id": 6358481,
+                "content_license": "CC BY-SA 4.0",
+                "link": "https://stackoverflow.com/questions/6358481/using-functools-lru-cache-with-dictionary-arguments",
+                "title": "Using @functools.lru_cache with dictionary arguments"
+            }
+        },
+        {
+            "source": "stackoverflow",
+            "query": "dictionary",
+            "learning": {
+                "tags": [
+                    "c#",
+                    "dictionary"
+                ],
+                "owner": {
+                    "user_type": "does_not_exist",
+                    "display_name": "CSharpeProgrammer"
+                },
+                "is_answered": true,
+                "view_count": 165293,
+                "accepted_answer_id": 569920,
+                "answer_count": 12,
+                "score": 95,
+                "last_activity_date": 1754192950,
+                "creation_date": 1235142846,
+                "last_edit_date": 1739455884,
+                "question_id": 569903,
+                "content_license": "CC BY-SA 4.0",
+                "link": "https://stackoverflow.com/questions/569903/dictionary-with-two-values-per-key-of-different-type",
+                "title": "Dictionary with two values per key, of different type"
+            }
+        },
+        {
+            "source": "stackoverflow",
+            "query": "dictionary",
+            "learning": {
+                "tags": [
+                    "python",
+                    "sorting",
+                    "dictionary"
+                ],
+                "owner": {
+                    "account_id": 39068,
+                    "reputation": 1555,
+                    "user_id": 112605,
+                    "user_type": "registered",
+                    "accept_rate": 50,
+                    "profile_image": "https://www.gravatar.com/avatar/81b35abd548d432182b0fe9ec3733002?s=256&d=identicon&r=PG",
+                    "display_name": "simi",
+                    "link": "https://stackoverflow.com/users/112605/simi"
+                },
+                "is_answered": true,
+                "view_count": 167315,
+                "accepted_answer_id": 1144405,
+                "answer_count": 9,
+                "score": 143,
+                "last_activity_date": 1754036989,
+                "creation_date": 1247841408,
+                "last_edit_date": 1642882166,
+                "question_id": 1143671,
+                "content_license": "CC BY-SA 4.0",
+                "link": "https://stackoverflow.com/questions/1143671/how-to-sort-objects-by-multiple-keys",
+                "title": "How to sort objects by multiple keys?"
+            }
+        },
+        {
+            "source": "github",
+            "query": "exception",
+            "learning": {
+                "url": "https://github.com/jumpserver/jumpserver/blob/d185be218074c46dda3d1a47d3e4b418cd7f09c0/jms"
+            }
+        },
+        {
+            "source": "github",
+            "query": "exception",
+            "learning": {
+                "url": "https://github.com/mobilecoinfoundation/mobilecoin/blob/de8c55e25f9ea2372cf8b7d00089abd0c3064a8f/mob"
+            }
+        },
+        {
+            "source": "github",
+            "query": "exception",
+            "learning": {
+                "url": "https://github.com/cask/cask/blob/e04462801736fc1d76d979aedd7514663786892c/go"
+            }
+        },
+        {
+            "source": "github",
+            "query": "generator",
+            "learning": {
+                "url": "https://github.com/jurialmunkey/repository.jurialmunkey/blob/b6bc6551207fc6b7aff23e78ee29f4fbea7fdb4c/_repo_generator.py"
+            }
+        },
+        {
+            "source": "github",
+            "query": "generator",
+            "learning": {
+                "url": "https://github.com/znxlwm/pytorch-MNIST-CelebA-cGAN-cDCGAN/blob/bc8be7888af1ea98f82af15b4e913cf6aed938e1/pytorch_MNIST_cGAN.py"
+            }
+        },
+        {
+            "source": "github",
+            "query": "generator",
+            "learning": {
+                "url": "https://github.com/knatarajan-lab/dqd-python/blob/944efd60383dc2ad44795da84195ee871b3352ab/db.py"
+            }
+        },
+        {
+            "source": "stackoverflow",
+            "query": "database",
+            "learning": {
+                "tags": [
+                    "sql",
+                    "database",
+                    "indexing",
+                    "constraints",
+                    "relational-database"
+                ],
+                "owner": {
+                    "account_id": 18944,
+                    "reputation": 62762,
+                    "user_id": 43907,
+                    "user_type": "registered",
+                    "accept_rate": 57,
+                    "profile_image": "https://www.gravatar.com/avatar/64bacb3518c0295032f47029a460fda6?s=256&d=identicon&r=PG",
+                    "display_name": "Gold",
+                    "link": "https://stackoverflow.com/users/43907/gold"
+                },
+                "is_answered": true,
+                "view_count": 129165,
+                "closed_date": 1754288388,
+                "accepted_answer_id": 1692554,
+                "answer_count": 7,
+                "score": 25,
+                "last_activity_date": 1754301536,
+                "creation_date": 1257585906,
+                "last_edit_date": 1754301536,
+                "question_id": 1692538,
+                "link": "https://stackoverflow.com/questions/1692538/what-is-the-difference-between-primary-unique-and-foreign-key-constraints-and",
+                "closed_reason": "Needs more focus",
+                "title": "What is the difference between primary, unique and foreign key constraints, and indexes?"
+            }
+        },
+        {
+            "source": "stackoverflow",
+            "query": "database",
+            "learning": {
+                "tags": [
+                    "database",
+                    "joomla",
+                    "xampp"
+                ],
+                "owner": {
+                    "account_id": 2013553,
+                    "reputation": 39,
+                    "user_id": 1801410,
+                    "user_type": "registered",
+                    "profile_image": "https://www.gravatar.com/avatar/d46d7871a0f211b30c2b90a3045afbd3?s=256&d=identicon&r=PG",
+                    "display_name": "user1801410",
+                    "link": "https://stackoverflow.com/users/1801410/user1801410"
+                },
+                "is_answered": false,
+                "view_count": 24102,
+                "answer_count": 4,
+                "score": 0,
+                "last_activity_date": 1754287650,
+                "creation_date": 1352414586,
+                "last_edit_date": 1592644375,
+                "question_id": 13299175,
+                "content_license": "CC BY-SA 4.0",
+                "link": "https://stackoverflow.com/questions/13299175/database-connection-error-3-could-not-connect-to-database",
+                "title": "Database connection error (3): Could not connect to database&#39;,"
+            }
+        },
+        {
+            "source": "stackoverflow",
+            "query": "database",
+            "learning": {
+                "tags": [
+                    "database",
+                    "relational-database"
+                ],
+                "owner": {
+                    "account_id": 6608852,
+                    "reputation": 2314,
+                    "user_id": 6458245,
+                    "user_type": "registered",
+                    "accept_rate": 59,
+                    "profile_image": "https://www.gravatar.com/avatar/309786d74c2d360f53f72e2c2437649e?s=256&d=identicon&r=PG&f=y&so-version=2",
+                    "display_name": "JobHunter69",
+                    "link": "https://stackoverflow.com/users/6458245/jobhunter69"
+                },
+                "is_answered": false,
+                "view_count": 53,
+                "closed_date": 1754159013,
+                "answer_count": 2,
+                "score": -8,
+                "last_activity_date": 1754262936,
+                "creation_date": 1754149861,
+                "question_id": 79723479,
+                "link": "https://stackoverflow.com/questions/79723479/relational-databases-are-keys-just-ids",
+                "closed_reason": "Needs more focus",
+                "title": "Relational databases: are keys just ids?"
+            }
+        }
+    ],
+    "timestamp": "2025-08-04T13:27:17.723992"
+}

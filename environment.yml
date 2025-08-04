@@ -1,0 +1,12 @@
+name: ia_auto_evolutiva
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python>=3.8
+  - requests
+  - numpy
+  - pip
+  - pip:
+  - schedule
+  - matplotlib

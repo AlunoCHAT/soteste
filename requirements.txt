@@ -1,0 +1,7 @@
+requests>=2.31.0
+numpy>=1.26.0
+psutil 
+dateutil
+matplotlib>=3.7.0
+requests
+schedule
