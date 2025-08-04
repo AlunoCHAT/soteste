@@ -61,6 +61,7 @@ Criando_IA_Inteligente/
 Arquivos gerados automaticamente:
 - `dashboard.html` - Painel visual
 - `evolution.log` - Log detalhado
+- `evolution_log.json` - Registro estruturado de checkpoints
 - `knowledge.json` - Base de conhecimento
 - `neural_weights.npz` - Pesos da rede
 
