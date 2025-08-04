@@ -1,11 +1,16 @@
 import numpy as np
 from src.agent import CodeLearningAgent
-from src.neural_engine import MicroNeuralNetwork, CodeEvolutionEngine, calculate_fitness
+from src.neural_engine import (
+    MicroNeuralNetwork,
+    CodeEvolutionEngine,
+    calculate_fitness,
+)
 import json
 import os
 import requests
 import random
 import logging
+import base64
 from datetime import datetime
 
 API_KEYS = {
@@ -69,12 +74,31 @@ class IntegratedAI:
                 if results and 'items' in results:
                     print(f"Encontrei {len(results['items'])} exemplos no GitHub.")
                     for item in results['items'][:3]:
-                        code_url = item['html_url']
-                        self.memory_bank.append({
-                            'source': 'github',
-                            'query': query,
-                            'learning': {'url': code_url}
-                        })
+                        try:
+                            file_info = requests.get(item['url'], headers=headers)
+                            file_info.raise_for_status()
+                            file_data = file_info.json()
+
+                            code_content = ""
+                            if file_data.get('content'):
+                                code_content = base64.b64decode(
+                                    file_data['content']
+                                ).decode('utf-8', errors='ignore')
+                            elif file_data.get('download_url'):
+                                raw = requests.get(file_data['download_url'])
+                                if raw.status_code == 200:
+                                    code_content = raw.text
+
+                            self.memory_bank.append({
+                                'source': 'github',
+                                'query': query,
+                                'learning': {
+                                    'url': item['html_url'],
+                                    'code': code_content,
+                                },
+                            })
+                        except Exception as e:
+                            logging.error(f"Falha ao obter código do GitHub: {e}")
             
             elif api_name == "stackoverflow":
                 url = f"https://api.stackexchange.com/2.3/search/advanced?q={query}&site=stackoverflow"
@@ -134,7 +158,19 @@ class IntegratedAI:
         return rl_solution
         
     def self_improve(self):
-        pass
+        if not self.memory_bank:
+            return
+
+        sample = random.choice(self.memory_bank)
+        code = sample.get('learning', {}).get('code')
+        if not code:
+            return
+
+        reward = self.rl_agent.evaluate_code(code)
+        self.rl_agent.learn_from_code(code, reward)
+        self.neural_net.train([code], [[1, 0, 0]], epochs=1)
+        self.rl_agent.improve()
+        logging.info("Auto aprimoramento realizado a partir de novo conhecimento.")
         
     def bootstrap(self):
         print("Bootstrapping IA...")

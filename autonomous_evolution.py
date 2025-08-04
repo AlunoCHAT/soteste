@@ -91,17 +91,39 @@ class AutonomousEvolution:
         self.save_knowledge_checkpoint()
         
     def save_knowledge_checkpoint(self):
+        metrics = {
+            "memory_size": len(self.ai.memory_bank),
+            "knowledge_functions": len(
+                self.ai.rl_agent.knowledge_base.get("functions", {})
+            ),
+            "exploration_rate": self.ai.rl_agent.exploration_rate,
+            "current_level": self.current_level,
+        }
         checkpoint = {
             "timestamp": datetime.now().isoformat(),
             "generation": self.generation,
-            "memory_size": len(self.ai.memory_bank),
-            "evolution_history_size": len(self.ai.evolution_engine.population),
-            "current_level": self.current_level
+            **metrics,
         }
         self.knowledge_checkpoints.append(checkpoint)
-        
-        with open("knowledge_checkpoints.json", 'w') as f:
+
+        with open("knowledge_checkpoints.json", "w") as f:
             json.dump(self.knowledge_checkpoints, f, indent=4)
+
+        evo_entry = {
+            "timestamp": checkpoint["timestamp"],
+            "generation": self.generation,
+            "metrics": metrics,
+        }
+        self.evolution_history.append(evo_entry)
+        with open("evolution_log.json", "w") as f:
+            json.dump(
+                {
+                    "current_generation": self.generation,
+                    "checkpoints": self.evolution_history,
+                },
+                f,
+                indent=4,
+            )
             
     def run_forever(self):
         logging.info("Iniciando loop de agendamento autônomo...")
